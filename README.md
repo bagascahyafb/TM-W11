@@ -1,5 +1,6 @@
 # TM-W11
-Pada praktikum kali ini, saya akan membuat sebuah program searching sederhana dengan menggunakan Python
+Pada praktikum kali ini, saya akan membuat sebuah program searching sederhana dengan menggunakan Python.
+
 Adapun langkah-langkahnya adalah sebagai berikut:
 1. Ekstrak Dokumen dari Internet (Bisa Menggunakan Web Scraping atau manual)
 2. Bersihkan isi dokumen tersebut agar memudahkan proses analisis
